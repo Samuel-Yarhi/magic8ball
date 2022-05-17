@@ -20,10 +20,8 @@ export default function Home() {
         <p className={styles.description}>
           Podemos usar esto para dar los cursos, sin tener que instalar nada. Se conecta con GitHub súper fácil y desde aquí mismo haces commit y todo. En resumen solo usaremos:
 
-sí puedo, con tu usuario
-
-<p>apoco puedes??? OMG :thinking: Intentalo</p>
-          interesante
+No, parece que sí es con mi usuario
+          Tuve que conectar mi cuenta de git hub
           <ol>
             <li>Vercel</li>
             <li>Replit</li>
