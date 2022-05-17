@@ -16,20 +16,20 @@ export default function Home() {
           this works pretty well
         </h1>
 
+        <h1>Te contesté pero no me viste. HARÉ UN PUSH</h1>
         <p className={styles.description}>
           Podemos usar esto para dar los cursos, sin tener que instalar nada. Se conecta con GitHub súper fácil y desde aquí mismo haces commit y todo. En resumen solo usaremos:
 
+sí puedo, con tu usuario
 
-<h1>Te contesté pero no me viste. HARÉ UN PUSH</h1>
-
+<p>apoco puedes??? OMG :thinking: Intentalo</p>
+          interesante
           <ol>
             <li>Vercel</li>
             <li>Replit</li>
             <li>GitHub</li>
           </ol>
         </p>
-        <h2>oh.. </h2>
-
         <a href='https://test-arvindell.vercel.app/'>
           Visita esta página
         </a>
