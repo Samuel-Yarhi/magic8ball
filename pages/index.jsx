@@ -17,51 +17,23 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Podemos usar esto para dar los cursos, sin tener que instalar nada. Se conecta con GitHub súper fácil y desde aquí mismo haces commit y todo. En resumen solo usaremos:
+
+
+<h1>Te contesté pero no me viste. HARÉ UN PUSH</h1>
+
+          <ol>
+            <li>Vercel</li>
+            <li>Replit</li>
+            <li>GitHub</li>
+          </ol>
         </p>
+        <h2>oh.. </h2>
 
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h2>Deployed &rarr;</h2>
-            <p>
-              After running, this repl is automatically deployed on replit!
-            </p>
-          </a>
-        </div>
-      </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by Vercel
-            and Replit
+        <a href='https://test-arvindell.vercel.app/'>
+          Visita esta página
         </a>
-      </footer>
+      </main>
     </div>
   )
 }
